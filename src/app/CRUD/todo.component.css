@@ -1,0 +1,39 @@
+h2{
+    color: darkmagenta;
+}
+input{ 
+    border-color: darkgray;
+border-radius: 50px;
+width: 300px;
+} 
+label{
+    color: cadetblue;
+    font-size: x-large;
+}
+#create{
+    border-radius: 30px; 
+    margin-top: 10px;
+}
+ #table{
+    /* background-color: antiquewhite;  */
+ }
+ thead{
+    background-color: cornflowerblue;
+ }
+ tbody{
+    background-color: lightblue;
+ }
+ #edit{
+    background-color: black;
+    color: yellow;
+    text-decoration: none;
+    border-radius: 50px;
+ }
+ #delete{
+    margin-left: 50px;
+    background-color: black;
+    color: yellow;
+    text-decoration: none;
+    border-radius: 50px;
+ }
+ 
